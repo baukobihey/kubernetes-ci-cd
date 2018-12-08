@@ -181,7 +181,7 @@ With our proxy container up and running, we can now push our Jenkins image to th
 
 `docker push 127.0.0.1:30400/jenkins:latest`
 
-#### Step5
+##### Step5
 
 The proxy’s work is done, so you can go ahead and stop it.
 
